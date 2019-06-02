@@ -1,0 +1,23 @@
+.sidecolor{
+    background-color: #19e3b0;
+    height: 100vh;
+    position: relative;
+}
+.box{
+    position: absolute;
+    min-height: 400px;
+    width: 800px;
+    background-color: transparent;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: -4px 7px 70px -8px rgba(167, 167, 167, 0.7);
+    left: 45%;
+}
+.box3{
+    position: relative;
+}
+.help{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
